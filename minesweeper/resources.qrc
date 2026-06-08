@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>src/view/bomb.gif</file>
+        <file>src/view/marioground.png</file>
+        <file>src/view/start.wav</file>
+        <file>src/view/firstclick.wav</file>
+        <file>src/view/bombsound.wav</file>
+        <file>src/view/defeat.wav</file>
+    </qresource>
+</RCC>

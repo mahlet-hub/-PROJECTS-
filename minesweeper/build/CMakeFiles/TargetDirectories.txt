@@ -1,0 +1,6 @@
+/Users/mahletgetu/Documents/Documents - Mahlet’s MacBook Pro/csci_2300/final-project-minesweeper/build/CMakeFiles/app.dir
+/Users/mahletgetu/Documents/Documents - Mahlet’s MacBook Pro/csci_2300/final-project-minesweeper/build/CMakeFiles/app_other_files.dir
+/Users/mahletgetu/Documents/Documents - Mahlet’s MacBook Pro/csci_2300/final-project-minesweeper/build/CMakeFiles/edit_cache.dir
+/Users/mahletgetu/Documents/Documents - Mahlet’s MacBook Pro/csci_2300/final-project-minesweeper/build/CMakeFiles/rebuild_cache.dir
+/Users/mahletgetu/Documents/Documents - Mahlet’s MacBook Pro/csci_2300/final-project-minesweeper/build/CMakeFiles/app_autogen_timestamp_deps.dir
+/Users/mahletgetu/Documents/Documents - Mahlet’s MacBook Pro/csci_2300/final-project-minesweeper/build/CMakeFiles/app_autogen.dir
