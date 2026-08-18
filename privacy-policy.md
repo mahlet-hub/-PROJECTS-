@@ -2,7 +2,7 @@
 
 Last updated: August 17, 2026
 
-Thank you for using Learn Chess (“the App”). Your privacy is important to us. This Privacy Policy explains what information we collect, how we use it, and your choices. If you have any questions, please contact us at: support@example.com.
+Thank you for using Learn Chess . Your privacy is important to us. This Privacy Policy explains what information we collect, how we use it, and your choices. If you have any questions, please contact us at: mahletgetu05@gmail.com.
 
 ## Summary
 - We collect minimal data necessary to operate the App and improve your experience.
@@ -55,6 +55,6 @@ We may update this policy from time to time. We will update the “Last updated�
 
 ## Contact Us
 If you have questions or requests regarding this policy, please contact:
-- Email: support@example.com
+- Email: mahletget05@gmail.com
 - App: Learn Chess
 - Owner: Mahlet Getu
